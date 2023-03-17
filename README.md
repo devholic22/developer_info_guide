@@ -53,6 +53,8 @@
   * 솝커톤 (해커톤), 앱 잼 (실제 프로젝트), 솝텀 (네트워킹하여 프로젝트 진행) 등 다양한 활동
   * 커리큘럼 있음
   * 서류 - 면접 (다대다 면접 후 파트장 1:1 면접)
+* GDSC (Google Developer Student Club)
+  * 구글에서 주관하는 대학생 개발 동아리
 * [소프트웨어 마에스트로 (SW Maestro)](https://www.swmaestro.org/sw/main/main.do)
   * 과학기술정보통신부 주관 운영
   * 1년 과정
