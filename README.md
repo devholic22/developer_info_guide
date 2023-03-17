@@ -24,16 +24,21 @@
 
 ## 🙌 동아리 / 대외활동 / 부트캠프 등
 * [멋쟁이사자처럼](https://www.likelion.net/)
-  * 부트캠프 및 동아리 모두 존재 (동아리: 커리큘럼 존재)
+  * 부트캠프 및 연합 동아리 모두 존재 (동아리: 커리큘럼 존재)
   * 동아리는 1년 단위, 대학생
-    * 학기 중에 학습하고 방학 기간에 해커톤 진행
+    * 학기 중에 학습하고 방학 기간에 아이디어톤, 해커톤 진행
     * 웹/서버/기획&디자인으로 나뉨
 * [UMC (University MakeUs Challenge)](https://www.makeus.in/umc)
   * 커리큘럼 존재
-  * 6개월 단위 대학생 동아리
+  * 6개월 단위 대학생 연합 동아리
   * 서버 / 웹 / 안드로이드 / iOS / 기획 / 디자인 파트 분리
-  * 학기 중에 학습하고 방학 기간에 해커톤 진행
+  * 학기 중에 학습하고 방학 기간에 아이디어톤, 해커톤 진행
 * [CMC (Central MakeUs Challenge)](https://www.makeus.in/cmc)
+  * UMC의 심화 버전으로서, 모집 직군도 같음
+  * 6개월 단위 동아리
+  * 직장인/대학생 모두 가능
+  * 수료 시 외주 연계
+  * Web 팀과 Native 팀으로 나뉨
 * [잇타 (It's time)](https://its-time.notion.site/IT-IT-s-TIME-bff8ccbf24b9413896d4baa13f96ac03)
 * [SOPT (Share Our Passion Together)](https://sopt.org/)
 * [소프트웨어 마에스트로 (SW Maestro)](https://www.swmaestro.org/sw/main/main.do)
