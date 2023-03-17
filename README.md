@@ -47,6 +47,11 @@
 * [애플 디벨로퍼 아카데미](https://developeracademy.postech.ac.kr/)
 * [네이버부스트캠프](https://boostcamp.connect.or.kr/)
 * [SSAFFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp)
+  * 삼성에서 주관하는 소프트웨어 교육 프로그램
+  * 삼성 SW 역량 테스트, 경진 대회 참가 가능
+  * 매월 100만원 지급, 시상 제도, 맞춤형 취업지원
+  * 만 29세 이하 청년 취업 준비생 (국내외 4년제 대학 졸업자 학사 이상, 전공 무관, 졸업자 및 졸업예정자)
+  * 1년 간 2학기 형태로 진행
 * [디프만 (디자이너와 프로그래머의 만남)](https://www.depromeet.com/)
 * [YAPP](https://www.yapp.co.kr/)
 * [Mash-Up](https://mash-up.kr/)
