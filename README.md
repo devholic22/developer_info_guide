@@ -1,7 +1,7 @@
-# developer_info_guide
+# 🔎 developer_info_guide
 개발자 분들이 참고할만한 정보들을 모아놓은 문서입니다.
 
-## 강의 플랫폼
+## 🧑‍🏫 강의 플랫폼
 * [인프런](https://www.inflearn.com/)
   * 다양한 주제의 IT 강의들을 학습할 수 있는 곳
 * [유데미](https://www.udemy.com/)
@@ -17,12 +17,12 @@
   * 주로 자바스크립트 기반
   * 백엔드 / 프론트엔드 모두 가능
 
-## 문제 풀이 사이트
+## 🖥️ 문제 풀이 사이트
 * [백준](https://www.acmicpc.net/)
 * [프로그래머스](https://programmers.co.kr/)
   * 실제 코딩테스트를 이 곳에서 보는 경우가 많음
 
-## 동아리 / 대외활동 / 부트캠프 등
+## 🙌 동아리 / 대외활동 / 부트캠프 등
 * [멋쟁이사자처럼](https://www.likelion.net/)
   * 부트캠프 및 동아리 모두 존재 (동아리: 커리큘럼 존재)
   * 동아리는 1년 단위, 대학생
@@ -55,7 +55,7 @@
 * [알고리즘잡스](https://www.algorithmjobs.com/)
 * [항해99](https://hanghae99.spartacodingclub.kr/)
 
-## 참고할만한 기술 블로그
+## 📝 참고할만한 기술 블로그
 * [네이버 D2](https://d2.naver.com/home)
 * [Kakao Tech](https://tech.kakao.com/blog/)
 * [라인 기술 블로그](https://engineering.linecorp.com/ko/blog)
@@ -64,7 +64,7 @@
 * [당근마켓 기술 블로그](https://medium.com/daangn)
 * [토스 기술 블로그](https://toss.tech/)
 
-## 기타 사이트
+## 💁 기타 사이트
 * [Dev Event](https://dev-event.vercel.app/events)
   * 개발 관련 이벤트 정보들을 알 수 있는 곳
 * [Numble](https://www.numble.it/)
